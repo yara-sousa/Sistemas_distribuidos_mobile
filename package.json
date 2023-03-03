@@ -1,0 +1,18 @@
+{
+  "name": "projeto_teste",
+  "version": "1.0.1",
+  "description": "este é um projeto de teste",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teste",
+    "npm"
+  ],
+  "author": "Yara Sousa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
